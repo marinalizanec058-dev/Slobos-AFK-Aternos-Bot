@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Grief SMP AFKBOT",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": " GriefSMP-K90J.aternos.me",
+    "port": 45857,
     "version": "",
     "try-creative": false
   },
